@@ -6,7 +6,7 @@ This is the source code for the YouTube video `Is Your .NET App Multi-Tenant Yet
 
 ### Check the YouTube video here
 
-[![Is Your .NET App Multi-Tenant Yet? Learn How!](https://i9.ytimg.com/vi/gHfSB0LFs4U/mqdefault.jpg?v=659af3cc&sqp=CJjv9KwG&rs=AOn4CLDVLQqYYrwFflZrfXvJjWaJAA8v8A)](https://www.youtube.com/watch?v=gHfSB0LFs4U)
+[![Is Your .NET App Multi-Tenant Yet? Learn How!](https://img.youtube.com/vi/AHXrBjQge5s/0.jpg)](https://www.youtube.com/watch?v=gHfSB0LFs4U)
 
 [Is Your .NET App Multi-Tenant Yet? Learn How!](https://www.youtube.com/watch?v=gHfSB0LFs4U)
 
